@@ -2,4 +2,6 @@ Esta es la primera pruea que hacemos para empzar a aprender git y  github 05-06-
 Sabado 12:19 PM
 
 
-Ahora ya vanzamos mucho mas, ya entendemos lo basico de Git y estamos aprendiendo ramas, en este momento vamos a agregar una cabecera a nuestro proyecto.
+Ahora ya avanzamos mucho mas, ya entendemos lo basico de Git y estamos aprendiendo ramas, en este momento vamos a agregar una cabecera a nuestro proyecto.
+
+Segundo commint en branch cabecera.
