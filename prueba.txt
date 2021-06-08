@@ -1,6 +1,4 @@
 Esta es la primera pruea que hacemos para empzar a aprender git y  github 05-06-2021.
 Sabado 12:19 PM
 
-Ahora ya vamos por Reset y Checkout.
 
-Estamos ingresando mas cambios.
