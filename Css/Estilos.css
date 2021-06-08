@@ -8,6 +8,12 @@ html{
     font-size: 62.5%;
 }
 
+.header{
+    color: deeppink;
+    height: 100px;
+    width: 100%;
+}
+
 .container{
     display: flex;
     flex-wrap: wrap; /* Para que nuestro contenido que esta dentro del container , pueda reposicionarse */
