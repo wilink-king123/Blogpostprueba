@@ -14,7 +14,7 @@ html{
     flex-wrap: wrap; 
     height: 100px;
     width: 100%;
-    background-color: brown;
+    background-color: rgb(47, 0, 255);
 }
 
 .container{
