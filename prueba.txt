@@ -1,7 +1,1 @@
-Esta es la primera pruea que hacemos para empzar a aprender git y  github 05-06-2021.
-Sabado 12:19 PM
-
-
-Ahora ya avanzamos mucho mas, ya entendemos lo basico de Git y estamos aprendiendo ramas, en este momento vamos a agregar una cabecera a nuestro proyecto.
-
-Segundo commint en branch cabecera.
+Ahora comenzamos con nuevo contenido para este blog de notas , para poder probar si a nuestro proyecto le podemos hacer una fusion y determinar si la nos funciona el merge, sino tenemos que ver que onda..
