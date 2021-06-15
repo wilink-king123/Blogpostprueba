@@ -1,1 +1,5 @@
 Ahora comenzamos con nuevo contenido para este blog de notas , para poder probar si a nuestro proyecto le podemos hacer una fusion y determinar si la nos funciona el merge, sino tenemos que ver que onda..
+
+
+Hacemos otro commit en la rama master para poder comprobar bien, debemos aprender a crear ramas de la manera correcta para no tener dificultades en un futuro no muy lejano, para evitar los conflictos....
+
