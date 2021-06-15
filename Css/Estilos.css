@@ -17,6 +17,10 @@ header{
     background-color: rgb(47, 0, 255);
 }
 
+div{
+    background-color: rgb(47, 0, 255);
+}
+
 .container{
     display: flex;
     flex-wrap: wrap; /* Para que nuestro contenido que esta dentro del container , pueda reposicionarse */
